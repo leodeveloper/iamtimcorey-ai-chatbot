@@ -1,16 +1,16 @@
-# khanacademy AI Chat Bot
+# IAmTimCorey AI Chat Bot
 IAmTimCorey
-![khanacademy AI Chat Bot](https://github.com/leodeveloper/khanacademy-ai-chatbot/blob/main/khanacadmy.png)
+![IAmTimCorey AI Chat Bot](https://github.com/leodeveloper/IAmTimCorey-ai-chatbot/blob/main/khanacadmy.png)
 
-Welcome to the khanacademy AI Chat Bot repository! This project features an AI-powered chatbot for the khanacademy YouTube channel, offering access to transcripts from 4583 videos, covering content from 07 Oct 2013 to June 20, 2024.
+Welcome to the IAmTimCorey AI Chat Bot repository! This project features an AI-powered chatbot for the IAmTimCorey YouTube channel, offering access to transcripts from 4583 videos, covering content from 07 Oct 2013 to June 27, 2024.
 
 ## Features
-- **AI Chat Bot**: Interact with an AI chatbot tailored for the khanacademy YouTube channel.
-- **Extensive Transcript Database**: Access transcripts from 650 videos.
+- **AI Chat Bot**: Interact with an AI chatbot tailored for the IAmTimCorey YouTube channel.
+- **Extensive Transcript Database**: Access transcripts from 656 videos.
 - **Multi-Language Support**: Get transcripts in English and other languages.
 
 ## Getting Started
-To get started with the khanacademy AI Chat Bot, follow these instructions.
+To get started with the IAmTimCorey AI Chat Bot, follow these instructions.
 
 ### Prerequisites
 
@@ -21,20 +21,20 @@ To get started with the khanacademy AI Chat Bot, follow these instructions.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/leodeveloper/khanacademy-ai-chatbot
-   cd khanacademy-ai-chat-bot
+   git clone https://github.com/leodeveloper/IAmTimCorey-ai-chatbot
+   cd IAmTimCorey-ai-chat-bot
 
 Usage
 
-Interact with the AI chatbot to explore the khanacademy YouTube channel content. You can access transcripts from a wide range of videos and request them in various languages.
+Interact with the AI chatbot to explore the IAmTimCorey YouTube channel content. You can access transcripts from a wide range of videos and request them in various languages.
 
 ##Accessing Full Transcripts
 
-##If you need full transcripts of all 145 videos, please drop an email to leodeveloper@gmail.com.
+##If you need full transcripts of all 656 videos, please drop an email to leodeveloper@gmail.com.
 
 Demo
 
-##Check out the live demo: khanacademy AI Chat Bot https://khanacademychatbot.streamlit.app/
+##Check out the live demo: IAmTimCorey AI Chat Bot https://iamtimcoreychatbot.streamlit.app/
 
 Contributing
 
