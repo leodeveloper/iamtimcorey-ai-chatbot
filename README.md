@@ -1,12 +1,12 @@
 # khanacademy AI Chat Bot
-
+IAmTimCorey
 ![khanacademy AI Chat Bot](https://github.com/leodeveloper/khanacademy-ai-chatbot/blob/main/khanacadmy.png)
 
 Welcome to the khanacademy AI Chat Bot repository! This project features an AI-powered chatbot for the khanacademy YouTube channel, offering access to transcripts from 4583 videos, covering content from 07 Oct 2013 to June 20, 2024.
 
 ## Features
 - **AI Chat Bot**: Interact with an AI chatbot tailored for the khanacademy YouTube channel.
-- **Extensive Transcript Database**: Access transcripts from 4,588 videos.
+- **Extensive Transcript Database**: Access transcripts from 650 videos.
 - **Multi-Language Support**: Get transcripts in English and other languages.
 
 ## Getting Started
